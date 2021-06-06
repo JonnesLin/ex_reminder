@@ -6,6 +6,12 @@ Please believe me, it is very easy for you to get started!
 yagmail
 
 # How to use?
+install it firstly!
+```bash
+pip install ex-reminder  # or pip install ex-reminder -i https://pypi.org/simple
+pip install yagmail
+
+```
 ```python
 sender_email = 'xxx@xxx.com'
 # the authorized code is not your password sometime, and it depends on your mail service
