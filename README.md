@@ -1,6 +1,6 @@
 # ex_reminder
 A reminder that can notify you wherever you are.
-You can use it when you train your deep learning model, and it will notify you the result of the experiment wherever you are.
+You can use it when you train your deep learning model, and it will send you the result of the experiment wherever you are.
 Please believe me, it is very easy for you to get started!
 # requirement
 yagmail
