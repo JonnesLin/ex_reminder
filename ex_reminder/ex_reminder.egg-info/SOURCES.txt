@@ -1,0 +1,6 @@
+ex_reminder.py
+setup.py
+ex_reminder.egg-info/PKG-INFO
+ex_reminder.egg-info/SOURCES.txt
+ex_reminder.egg-info/dependency_links.txt
+ex_reminder.egg-info/top_level.txt
