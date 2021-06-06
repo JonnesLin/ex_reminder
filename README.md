@@ -13,6 +13,9 @@ pip install yagmail
 
 ```
 ```python
+from ex_reminder import reminder
+
+
 sender_email = 'xxx@xxx.com'
 # the authorized code is not your password sometime, and it depends on your mail service
 authorized_code = 'xxxxx'  
